@@ -7,7 +7,7 @@ No build step: open index.html or upload the folder to any static host (Netlify,
 - Name: Chaitanya Hospital
 - Phone: +91 75070 77608
 - Address: Central Warehouse Koregaon Bhima, Off Nagar Road, near Sri Datta Tyres, Pune, Maharashtra 412216
-- Coordinates: 18.6457148, 74.0628464 · Map: https://maps.app.goo.gl/nYKC92nKQ9fkig4f7
+- Coordinates: 18.6457148, 74.0628464 · Map: https://maps.app.goo.gl/Ax5Y3E4Egd8PSX5Z8
 - OPD hours: all days, 9 AM – 2 PM and 5 PM – 9 PM
 - Google rating: 4.1 (15 reviews)
 
